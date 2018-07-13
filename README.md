@@ -2,5 +2,7 @@
 some miscellaneous notebooks/code
 
 Contents:
-* CAPP_30254_ML: Contains coursework from Machine Learning for Public Policy
-* Side_Projects: Contains personal projects, including data exploration of city of chicago data and special election data from 2017 and 2018
+* cityofchicago:	Some data exploration of 1) health & mortality data from the City of Chicago and 2) TIF district spending  
+* data: Contains csv's and other datasets used in the other folders
+* polling: Data viz practice with US generic ballot polling 
+* special_elections: Data viz and manipulation practice with Daily Kos and FiveThirtyEight elections data
